@@ -1,0 +1,19 @@
+
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	
+	.right_block p {
+		text-align: center;
+	}
+
+	.right_block  span {
+		text-align: center;
+		display: block;
+	}
+
+	.left_texter p{
+		text-align: center;	
+	}
+}
